@@ -2,13 +2,13 @@
 # KEEP IT HEALTHY
  
   ![RESTAURANTlogo](healthy-heart.png)
-   THE BEST RESTAURANT FOR YOUR LIFESTYLE <hr><hr>
+   **THE BEST RESTAURANT FOR YOUR LIFESTYLE** <hr><hr>
    ## Our dishes
 
 - ![Vegeggs](vegetarian.png) **Vegeggs**
 <br>Boiled vegetables with eggs
 <br>
--  ![Sallads](vegetable.png) **Sallads**
+- ![sallads](vegetable.png) **Sallads**
 <br>The best sallads ever
 <br>
 - ![Boiled-Sallads](salad.png) **Boiled Sallads**
@@ -25,8 +25,10 @@
 <br>
 - ![dragonfruit](dragon-fruit.png) **DragonFruit Ice-Cream**
 <br> Ice-Cream with special flavour
-<br><hr>
-## ***Just for our customers***
+<br>
+<hr>
+
+## Just for our customers
 ***The best plate ever will order to you***
 <br>
 ![Steak](calzone.png) **Steak Pie**
