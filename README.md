@@ -8,21 +8,27 @@
 - ![Vegeggs](vegetarian.png) **Vegeggs**
 <br>Boiled vegetables with eggs
 <br>
+
 - ![sallads](vegetable.png) **Sallads**
 <br>The best sallads ever
 <br>
+
 - ![Boiled-Sallads](salad.png) **Boiled Sallads**
 <br>Boiled vegetables with a fresh weed
 <br>
+
 - ![pizza](pizza.png) **pizza**
 <br> Vegetables pizza with the finest cheese
 <br>
+
 - ![VeganBurger](burger.png) **Vegan Burger**
 <br> Vegan Burger with the finest cheese
 <br>
+
 - ![Fruit-Sallads](fruit.png) **Fruit Sallads**
 <br> Assorted fruits with cream and honey
 <br>
+
 - ![dragonfruit](dragon-fruit.png) **DragonFruit Ice-Cream**
 <br> Ice-Cream with special flavour
 <br>
